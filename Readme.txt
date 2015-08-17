@@ -1,0 +1,13 @@
+Wordcount:
+Wordcount is an application that returns how frequently a word appears in a given string.
+The user inputs a single word to check along with a strong of words to check against.
+
+Requirements:
+Word Counter's method is programmed in Ruby and uses Sinatra do display the web view.
+You're gonna want to have both of these installed.
+
+Credits:
+Wordcount is written by Amit Mhatre.
+
+License:
+Word Counter is licensed under GNU GPL v2.0.
